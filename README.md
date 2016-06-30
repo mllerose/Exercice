@@ -19,3 +19,5 @@ Exercice de vendredi. A faire tranquillement. L'exo est large, mais vous faites 
 - A partir de là, on peut utiliser Altorouter ou autre mais pas obligatoire, pour créer quelques routes.
 - Il y a un fichier json dans le dépôt, il faudrait récupérer son contenu via une requête AJAX et afficher les données sur le site.
 - Si possible, créer un script PHP qui peut regénérer le fichier JSON avec de nouvelles données aléatoires (Faker).
+
+A la fin, vous pouvez proposer une petite PR ;)
