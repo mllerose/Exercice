@@ -1,0 +1,6 @@
+{
+    "name": "matthieumota/exercice1",
+    "require": {
+        "fzaninotto/Faker": "^1.6"
+    }
+}
