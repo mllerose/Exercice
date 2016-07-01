@@ -5,6 +5,7 @@ Exercice de vendredi. A faire tranquillement. L'exo est large, mais vous faites 
 
 - Cloner d'abord le dépôt
 - Copier le fichier config.php.dist vers config.php et configurer les accès à votre base de données
+- composer install
 
 ## TODO
 
